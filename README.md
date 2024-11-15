@@ -41,7 +41,7 @@ npm start
 > Certifique-se de que o backend está sendo executado em http://localhost:3005 para que as requisições funcionem corretamente.
 
 ### Configuração de Axios
-> O frontend está configurado para fazer requisições à API do backend em http://localhost:3005. Essa configuração pode ser encontrada no arquivo onde o axios.create está definido.
+O frontend está configurado para fazer requisições à API do backend em http://localhost:3005. Essa configuração pode ser encontrada no arquivo onde o axios.create está definido.
 
 ### Funcionalidades
 - Listagem de Produtos: Exibe uma lista de produtos com nome, preço, quantidade em estoque e botões para editar e excluir.
